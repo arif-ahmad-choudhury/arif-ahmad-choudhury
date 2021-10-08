@@ -5,7 +5,7 @@
 
 Web Developer | Frontend Web Developer | Graphic & Logo Designer !!
 
-- 🔭 I’m currently learning from Programming Hero.
+- 🔭 I’m currently learning from Web Development.
 - 🌱 I’m currently learning everything 🤣
 - 💻 Most used code `console.log()`
 - ⚡ Fun fact: I love to graphic design, travelling and Play Cricket 🏏.
