@@ -15,8 +15,9 @@ Web Developer | Frontend Web Developer | Graphic & Logo Designer !!
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifahmadchoudhury.cse@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-ahmad-choudhury)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-ahmad-choudhury/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Arif-Ahmad-Choudhury/)
 
-## 💻 Languages and Tools:
+## 💻 Skills:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,8 +37,17 @@ Web Developer | Frontend Web Developer | Graphic & Logo Designer !!
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
+<br>
+## Badges<br>
+My Github stats<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif-ahmad-choudhury&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="arif-ahmad-choudhury" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-ahmad-choudhury&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="arif-ahmad-choudhury" /></p> <br>
+
+
+
+
