@@ -1,3 +1,4 @@
+![banner](githubbanner.jpg.png)
 <!-- welcome message -->
 <h2>Hello, I am Arif Ahmad Choudhury. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
